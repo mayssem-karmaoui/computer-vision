@@ -1,7 +1,5 @@
-*File name: image-processing-pil*
-Description:
-A Python project exploring various image processing techniques using the PIL (Pillow) library and Matplotlib for visualization. This project demonstrates:
-Grayscale Conversion: Transforming images to grayscale using weighted RGB values.
+*File name: image-processing-pil : A Python project exploring various image processing techniques using the PIL (Pillow) library and Matplotlib for visualization. This project demonstrates:
+Grayscale Conversion: Transforming images to grayscale using weighted RGB values*
 
 - Thresholding: Converting images to binary format based on pixel intensity.
 - Negative Image: Creating a photo-negative effect by inverting pixel colors.
